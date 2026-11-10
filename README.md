@@ -28,4 +28,4 @@ $$
 P(Z_n)=\frac{1}{n+1}
 $$
 
-The code used in the IA is found in the document's appendix and as .py files here: [still need to add them :\(...].
+The relevant simulation code used in the IA is found in the document's appendix and as a .py file here [still need to add them :\(...].
