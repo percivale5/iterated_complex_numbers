@@ -35,4 +35,4 @@ $P(Z_n)=\frac{1}{n+1}$
 
 </div>
 
-The relevant simulation code used in the IA is found in the document's appendix and as a .py file [here](https://github.com/percivale5/iterated_complex_numbers/blob/main/ICCN_sim.py).
+The relevant simulation code used in the IA is found in the document's appendix and as ICCN_sim.py [here](https://github.com/percivale5/iterated_complex_numbers/blob/main/ICCN_sim.py).

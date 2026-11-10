@@ -33,7 +33,7 @@ while(m<M): # run m samples
             i = i + 1
         z_net = math.sqrt((real_net**2)+(imaginary_net**2))
 
-        # success counter (with floating point error tolerance)   
+        # success counter (with floating point error tolerance)
         if(z_net<0.999999999999999):
             a = a + 1
         n = n + 1
